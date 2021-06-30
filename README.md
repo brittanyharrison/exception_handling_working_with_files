@@ -8,7 +8,8 @@
 - `out of bound`
 - `key error`
 - `attribute error `
- `ZeroDivsionError`
+- `ZeroDivsionError`
+- `type error`
   
 ### File permissions
 
@@ -26,5 +27,5 @@
 
 - `try` works as `if condition`
 - `except` works as `elif`
-- `finallt` works as `else`, will execute regardless of try and except condition
+- `finally` works as `else`, will execute regardless of try and except condition
 
